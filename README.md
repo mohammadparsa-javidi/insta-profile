@@ -1,1 +1,1 @@
-# instagram-profile
+# insta-profile
